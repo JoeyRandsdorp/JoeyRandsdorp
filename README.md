@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Johannes but everyone calls me Joey, currently i'm working at a project for my internship and a school exercise related to full stack development. 
-I am a beginner programmer and i look forward to learning a  lot more!
+My name is Joey, currently in my last year of my study in project managment and programming. 
+I am a beginner programmer and i look forward to learning a  lot more.
 
 <!--
 **JoeyRandsdorp/JoeyRandsdorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
